@@ -66,6 +66,8 @@ height: 2000px;
   text-align: center;
   font-size: 20px;
   color: black;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 .main a{
   margin-left: 40%;
